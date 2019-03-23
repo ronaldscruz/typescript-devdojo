@@ -1,2 +1,24 @@
 # typescript-devdojo
-Curso de TypeScript da DevDojo
+
+- [] Tipos de variáveis
+- [] Interfaces
+- [] Classes e Atributos
+- [] Polimorfismo e modificadores de acesso
+- [] Anonymous e Named Functions
+- [] 'this'
+- [] Generics
+- [] Compatibilidade de tipos
+- [] Namespaces
+- [] Módulos extternos
+- [] High-order functions
+- [] Eventos
+- [] DOM
+- [] Requisições Ajax
+- [] Local e Session Storage
+- [] Exceptions
+- [] Destructuring
+- [] For
+- [] Maps
+- [] Sets
+- [] Promises
+- [] Decorators

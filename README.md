@@ -5,7 +5,7 @@
 - [x] Classes e Atributos
 - [x] Polimorfismo e modificadores de acesso
 - [x] Anonymous e Named Functions
-- [ ] 'this'
+- [x] 'this'
 - [ ] Generics
 - [ ] Compatibilidade de tipos
 - [ ] Namespaces

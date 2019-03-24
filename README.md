@@ -2,8 +2,8 @@
 
 - [x] Tipos de variáveis
 - [x] Interfaces
-- [ ] Classes e Atributos
-- [ ] Polimorfismo e modificadores de acesso
+- [x] Classes e Atributos
+- [x] Polimorfismo e modificadores de acesso
 - [ ] Anonymous e Named Functions
 - [ ] 'this'
 - [ ] Generics

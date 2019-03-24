@@ -1,6 +1,6 @@
 # typescript-devdojo
 
-- [ ] Tipos de variáveis
+- [x] Tipos de variáveis
 - [ ] Interfaces
 - [ ] Classes e Atributos
 - [ ] Polimorfismo e modificadores de acesso

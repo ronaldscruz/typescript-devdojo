@@ -1,7 +1,7 @@
 # typescript-devdojo
 
 - [x] Tipos de variáveis
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Classes e Atributos
 - [ ] Polimorfismo e modificadores de acesso
 - [ ] Anonymous e Named Functions

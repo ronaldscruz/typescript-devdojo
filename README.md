@@ -4,7 +4,7 @@
 - [x] Interfaces
 - [x] Classes e Atributos
 - [x] Polimorfismo e modificadores de acesso
-- [ ] Anonymous e Named Functions
+- [x] Anonymous e Named Functions
 - [ ] 'this'
 - [ ] Generics
 - [ ] Compatibilidade de tipos

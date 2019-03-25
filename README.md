@@ -8,7 +8,7 @@
 - [x] 'this'
 - [x] Generics
 - [x] Compatibilidade de tipos
-- [ ] Namespaces
+- [x] Namespaces
 - [ ] Módulos extternos
 - [ ] High-order functions
 - [ ] Eventos

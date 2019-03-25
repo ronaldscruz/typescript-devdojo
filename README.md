@@ -6,7 +6,7 @@
 - [x] Polimorfismo e modificadores de acesso
 - [x] Anonymous e Named Functions
 - [x] 'this'
-- [ ] Generics
+- [x] Generics
 - [ ] Compatibilidade de tipos
 - [ ] Namespaces
 - [ ] Módulos extternos

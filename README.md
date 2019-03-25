@@ -10,7 +10,7 @@
 - [x] Compatibilidade de tipos
 - [x] Namespaces
 - [x] Módulos externos
-- [ ] High-order functions
+- [x] High-order functions
 - [ ] Eventos
 - [ ] DOM
 - [ ] Requisições Ajax

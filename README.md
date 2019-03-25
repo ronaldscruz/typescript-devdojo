@@ -7,7 +7,7 @@
 - [x] Anonymous e Named Functions
 - [x] 'this'
 - [x] Generics
-- [ ] Compatibilidade de tipos
+- [x] Compatibilidade de tipos
 - [ ] Namespaces
 - [ ] Módulos extternos
 - [ ] High-order functions

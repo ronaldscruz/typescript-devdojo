@@ -9,7 +9,7 @@
 - [x] Generics
 - [x] Compatibilidade de tipos
 - [x] Namespaces
-- [ ] Módulos extternos
+- [x] Módulos externos
 - [ ] High-order functions
 - [ ] Eventos
 - [ ] DOM

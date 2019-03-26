@@ -11,10 +11,10 @@
 - [x] Namespaces
 - [x] Módulos externos
 - [x] High-order functions
-- [ ] Eventos
-- [ ] DOM
-- [ ] Requisições Ajax
-- [ ] Local e Session Storage
+- [x] Eventos
+- [x] DOM
+- [x] Requisições Ajax
+- [x] Local e Session Storage
 - [ ] Exceptions
 - [ ] Destructuring
 - [ ] For

@@ -18,6 +18,6 @@
 - [x] Destructuring
 - [x] For
 - [x] Maps
-- [ ] Sets
-- [ ] Promises
+- [x] Sets
+- [x] Promises
 - [ ] Decorators

@@ -17,7 +17,7 @@
 - [x] Local e Session Storage
 - [x] Destructuring
 - [x] For
-- [ ] Maps
+- [x] Maps
 - [ ] Sets
 - [ ] Promises
 - [ ] Decorators

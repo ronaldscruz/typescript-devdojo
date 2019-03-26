@@ -15,9 +15,8 @@
 - [x] DOM
 - [x] Requisições Ajax
 - [x] Local e Session Storage
-- [ ] Exceptions
-- [ ] Destructuring
-- [ ] For
+- [x] Destructuring
+- [x] For
 - [ ] Maps
 - [ ] Sets
 - [ ] Promises

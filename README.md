@@ -20,4 +20,4 @@
 - [x] Maps
 - [x] Sets
 - [x] Promises
-- [ ] Decorators
+- [x] Decorators
